@@ -20,6 +20,7 @@ else
   alias ll='ls -l -h'         # Long format
 fi
 
+alias lla='ls -a'             # Long format, all files
 alias lr='ll -T'              # Long format, recursive as a tree
 alias lx='ll -sextension'     # Long format, sort by extension
 alias lb='ll -ssize'          # Long format, largest file size last
